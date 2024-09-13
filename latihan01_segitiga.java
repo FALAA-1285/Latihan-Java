@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class segitiga {
+public class latihan01_segitiga {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
 

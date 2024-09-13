@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class bank {
+public class latihan02_bank {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
