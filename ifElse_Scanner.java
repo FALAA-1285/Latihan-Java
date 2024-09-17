@@ -5,7 +5,7 @@ public class ifElse_Scanner {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int n;
-        System.out.println("Masukkan nilai n");
+        System.out.print("Masukkan nilai n ");
         n=input.nextInt();
 
         if (n%2==0){
